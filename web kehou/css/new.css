@@ -1,0 +1,25 @@
+h1{
+	color:green;
+	text-align:center;
+	text-shadow:3px 3px 4px gray;
+}
+
+
+nav{text-align:right;}
+h4{color:green;}
+.video_title{color:orange;}
+.company{color:#63f;list-style:url(../img/list_icon.gif)inside;}
+.technical{color:#c3f;list-style:upper-alpha inside;}
+.company,.technical{line-height:2em;}
+
+
+li.first{text-decoration:underline;}
+p img{width:250px;}
+#foot{line-height:2em;text-align:center;font-size:14px;}
+
+h3#media,p#media{text-align:center;}
+
+
+
+
+

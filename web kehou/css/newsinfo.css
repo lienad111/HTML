@@ -1,0 +1,32 @@
+nav{text-align:right;}
+h3,.photo,#foot{text-align:center;}
+.text{text-indent:2em;line-height:2em;}
+#foot{font-size:14px;}
+
+nav a{text-decoration:none;}
+nav a:link{color:#309;font-weight:bold;}
+nav a:visited{color:#999;font-style:bold;}
+nav a:hover{color:#f60;font-style:italic;}
+nav a:active{color:green;font-style:italic;}
+
+
+@font-face{
+	font-family:myfont;
+	src: url(../img/fzrbsjt.ttf);
+	
+}
+h3{font-family:"myfont";color:green;font-size:30px;}
+
+
+hr{border:none;border-bottom:3px double#03f;}
+h4{font-family:"黑体";font-size:20px;}
+.photo img{border:16px steelblue ridge;}
+#foot{text-transform: uppercase;line-height:2em;}
+
+
+
+#foot a{text-decoration: none;}
+#foot a:link{color:#f63;}
+#foot a:visited{color:#999;}
+
+
